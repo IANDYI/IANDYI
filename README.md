@@ -8,6 +8,5 @@
   <img src="https://komarev.com/ghpvc/?username=IANDYI&style=flat-square&color=blue"/>
   <h1>
     hey there
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30px"/>
   </h1>
 </div>
